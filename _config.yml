@@ -24,7 +24,7 @@ name: ESPAÑA # Required: will be displayed on every page's header
 title: ESPAÑA SIN CENSURA # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - SIN CENSURA
-description: "Inicio" # Required
+description: "La voz de los españoles" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
